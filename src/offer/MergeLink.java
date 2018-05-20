@@ -46,7 +46,7 @@ public class MergeLink {
             }
             else{
                 if(l3 == null){
-                    l3 = l4 = list1;
+                    l3 = l4 ;
                 }
                 else{
                     l4.next = list1;
