@@ -7,7 +7,7 @@ public class MergeLink {
     public static void main(String[] args){
         ListNode node = new ListNode();
         ListNode node1 = new ListNode();
-        node = node.inite(node,10);
+        node = node.inite(node,1);
         node.printLink(node);
         System.out.print("node");
         node1 = node1.inite(node1,3);
